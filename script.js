@@ -1,5 +1,5 @@
 // Replace this with your actual deployed backend URL (Railway domain).
-const BASE_URL = "https://<your-railway-app>.up.railway.app";
+const BASE_URL = "https://recipe-suggester-production.up.railway.app";
 
 document.addEventListener("DOMContentLoaded", () => {
   // Buttons
